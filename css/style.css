@@ -1,6 +1,27 @@
-body{
-  background-color: black;
+.container{
+  background-color: #000;
+  width: 900px;
 }
-h1{
-  color: white;
+
+.nav{
+  background-color: #708090;
+  padding: 1rem;
+  width: 900px;
+  height 20px;:
+}
+
+.nav-link{
+  color: #fff;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+article{
+  color: #fff;
+  padding: 0.8rem;
+}
+
+footer p{
+  color: #fff;
+  text-align: center;
 }
